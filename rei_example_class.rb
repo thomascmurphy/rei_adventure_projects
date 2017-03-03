@@ -1,4 +1,4 @@
-class SlotsControl
+class SlotsController
 
   INIT_WARNING = "You must run the size(n) command first to create your slots"
 
