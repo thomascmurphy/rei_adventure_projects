@@ -1,7 +1,7 @@
 # rei_adventure_projects
 Code Example for REI
 
-Included a solely functional solution [rei_example.rb](../blob/master/rei_example.rb) and an object-oriented version [rei_example_class.rb](../blob/master/rei_example_class.rb) as it seemed to fit the nature of the task a little better, the only difference being that you'd run `controller = SlotsControl.new` first and then commands like `controller.size(5)`. I also included a simple happy-path set of tests to make sure I wasn't screwing up anything obvious.
+I included a solely functional solution [rei_example.rb](../blob/master/rei_example.rb) and an object-oriented version [rei_example_class.rb](../blob/master/rei_example_class.rb) as it seemed to fit the nature of the task a little better, the only difference being that you'd run `controller = SlotsControl.new` first and then commands like `controller.size(5)`. I also included a simple happy-path set of tests to make sure I wasn't screwing up anything obvious. I was running everything in IRB (`> irb`) but also Rails console would work fine (`> rails c`).
 
 ## Methods
 
